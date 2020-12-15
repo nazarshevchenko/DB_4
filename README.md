@@ -1,1 +1,1 @@
-# DB_4
+# Lab 4 Database JDBC
